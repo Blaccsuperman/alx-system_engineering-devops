@@ -1,1 +1,3 @@
-shell basics readme
+#!/bin/bash 
+shell basics readme repo 
+
